@@ -24,7 +24,7 @@ Skills/Interests: JavaScript, Node, React, Redux, Webpack/Babel, StyledComponent
   <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="(https://github-readme-stats.vercel.app/api?username=hackerking007)(https://github.com/hackerking007/github-readme-stats)" alt="hackeking007" />
+<p align="center"> <a href="(https://github-readme-stats.vercel.app/api?username=hackerking007)(https://github.com/hackerking007/github-readme-stats)" alt="hackeking007"/>
 
 </details>
 
