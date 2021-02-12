@@ -27,3 +27,10 @@ Skills/Interests: JavaScript, Node, React, Redux, Webpack/Babel, StyledComponent
 <p align="center"> <img src="https://github-stats-readme.hackerking007.vercel.app/api?username=hackerking007&show_icons=true&theme=radical" alt="hackeking007" />
 
 </details>
+
+<details>
+<summary>📈 My Top Langs</summary>
+
+<p align="center"> <img src="https://github-stats-readme.hackerking007.vercel.app/api/top-langs/?username=hackerking007&layout=compact" alt="hackerking007"/>
+
+</details>
