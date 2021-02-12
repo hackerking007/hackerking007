@@ -20,4 +20,4 @@ Skills/Interests: JavaScript, Node, React, Redux, Webpack/Babel, StyledComponent
 ⦿ Connect with me on <a href="https://www.linkedin.com/in/ayush-jain-3910931a8/">LinkedIn</a> 👨🏻‍💻
 
 My Stats🚩
-📈 <a href="[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackerking007)](https://github.com/hackerking007/github-readme-stats)">My GitHub Stats</a>
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackerking007)](https://github.com/hackerking007/github-readme-stats)
